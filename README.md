@@ -1,4 +1,4 @@
-## Backend Developer at Give Foundation
+## Backend Developer at Give
 
 ### Objective
 Create a disbursement report from a list of donations in CSV.
