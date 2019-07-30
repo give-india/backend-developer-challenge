@@ -12,7 +12,7 @@ Create a disbursement report from a list of donations in CSV.
 
 ### Deliverables
 - Create a fork of this repository
-- Code your solution in a frontend stack of your choice
+- Use simple html to provide the option to upload CSV. Frontend doesn't need to be fancy
 - Include instructions on how to set it up and run in the README.md
-- Add your resume and other profile / project links **(Don't include your social profiles. We really don't care unless it's your steam profile.)**
+- Add your resume and other profile / project links
 - Submit a pull request (PR)
